@@ -10,8 +10,10 @@
 Стэк: Python (Pandas / NumPy / Matplotlib /), SQL (PostgreSQL), Tableau
 
 # Portfolio projects
-[Построение тренда расхода времени](https://github.com/Ekaterina-Ivanch/Portfolio/blob/main/Alarm%20class.py)
+## [Построение тренда расхода времени](https://github.com/Ekaterina-Ivanch/Portfolio/blob/main/Alarm%20class.py)
+
 В рамках стажировки в рекламном холдинге написала код, который прогнозировал расход времени (в MyBI) с учетом выбросов на основе данных за предыдущие 2 недели. Обернула код в класс, чтобы дополнительно закрепить тему ООП. 
 
-[Сегментация потребителей E-commerce]()
+## [Сегментация потребителей E-commerce](https://github.com/Ekaterina-Ivanch/Portfolio/blob/main/E-com%20pubic.ipynb)
+
 Для e-com магазина выявила закономерности: какие покупатели покупают какие товарные категории в какие периоды.
